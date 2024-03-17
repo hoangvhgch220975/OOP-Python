@@ -54,4 +54,3 @@ game = Game(5)
 game.play()
 
 
-
